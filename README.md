@@ -27,6 +27,8 @@ A full-stack property rental platform built as a practical assessment for BETWEE
 
 ### Property Detail
 ![Register](screenshots/Screenshot%202026-06-11%20at%2017.38.13.png)
+![Messages](screenshots/view1.png)
+
 
 ### Login
 ![Dashboard Renter](screenshots/Screenshot%202026-06-11%20at%2017.41.24.png)
@@ -39,10 +41,11 @@ A full-stack property rental platform built as a practical assessment for BETWEE
 ![Create Property](screenshots/Screenshot%202026-06-11%20at%2017.38.55.png)
 
 ### Dashboard (Renter)
+![Messages](screenshots/renter.png)
 
 
 ### Messages
-
+![Messages](screenshots/message.png)
 
 ### Create Property
 ![Messages](screenshots/Screenshot%202026-06-11%20at%2017.39.23.png)
