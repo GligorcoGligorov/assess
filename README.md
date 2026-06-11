@@ -22,28 +22,31 @@ A full-stack property rental platform built as a practical assessment for BETWEE
 ![Home Page](screenshots/Screenshot%202026-06-11%20at%2017.37.00.png)
 
 ### Property Listings
-![Property Listings](screenshots/Screenshot%202026-06-11%20at%2017.37.08.png)
-
-### Property Detail
 ![Property Detail](screenshots/Screenshot%202026-06-11%20at%2017.37.19.png)
-
-### Login
 ![Login](screenshots/Screenshot%202026-06-11%20at%2017.37.27.png)
 
-### Register
+### Property Detail
 ![Register](screenshots/Screenshot%202026-06-11%20at%2017.38.13.png)
 
-### Dashboard (Owner)
-![Dashboard Owner](screenshots/Screenshot%202026-06-11%20at%2017.41.34.png)
-
-### Dashboard (Renter)
+### Login
 ![Dashboard Renter](screenshots/Screenshot%202026-06-11%20at%2017.41.24.png)
 
+
+### Register
+![Dashboard Owner](screenshots/Screenshot%202026-06-11%20at%2017.41.34.png)
+
+### Dashboard (Owner)
+![Create Property](screenshots/Screenshot%202026-06-11%20at%2017.38.55.png)
+
+### Dashboard (Renter)
+
+
 ### Messages
-![Messages](screenshots/Screenshot%202026-06-11%20at%2017.39.23.png)
+
 
 ### Create Property
-![Create Property](screenshots/Screenshot%202026-06-11%20at%2017.38.55.png)
+![Messages](screenshots/Screenshot%202026-06-11%20at%2017.39.23.png)
+
 
 ## Tech Stack
 
