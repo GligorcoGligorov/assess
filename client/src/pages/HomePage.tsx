@@ -11,7 +11,6 @@ const HomePage: React.FC = () => {
   const [properties, setProperties] = useState<Property[]>([]);
   const [pagination, setPagination] = useState<Pagination | null>(null);
   const [isLoading, setIsLoading] = useState(true);
-  const [menuOpen, setMenuOpen] = useState(false);
   const [filters, setFilters] = useState({
     city: '',
     type: '',
